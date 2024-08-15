@@ -13,3 +13,5 @@ servers:
     restricted: false
 ip_forward: true
 network_compression_threshold: 512
+  priorities:
+  - server1
