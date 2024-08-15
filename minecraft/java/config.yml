@@ -1,0 +1,15 @@
+servers:
+  server1:
+    address: 172.18.0.1:PORT
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+  server2:
+    address: 172.18.0.1:PORT
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+  server3:
+    address: 172.18.0.1:PORT
+    motd: '&1Just another BungeeCord - Forced Host'
+    restricted: false
+ip_forward: true
+network_compression_threshold: 512
