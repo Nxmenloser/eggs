@@ -1,5 +1,5 @@
 servers:
-  server1:
+  lobby:
     address: 172.18.0.1:PORT
     motd: '&1Just another BungeeCord - Forced Host'
     restricted: false
@@ -13,6 +13,3 @@ servers:
     restricted: false
 ip_forward: true
 network_compression_threshold: 512
-listeners:
-  priorities:
-  - server1
